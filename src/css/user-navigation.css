@@ -1,0 +1,18 @@
+.header1 {
+  height: 95px;
+  background-color:hsl(91deg 56% 45% / 84%)!important;
+}
+.header1flex {
+  margin-right: 20px;
+}
+.header1link {
+  font-size: 20px;
+  text-decoration: none;
+}
+.header2 {
+  height: 50px;
+  font-size: 15px;
+}
+nav a {
+  text-decoration: none;
+}
